@@ -1,2 +1,3 @@
 
-http://localhost:8000/api/healthchecker
+Code to demo "Rust-AXUM-SQLx-Postgres"
+
