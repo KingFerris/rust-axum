@@ -11,6 +11,7 @@ Upcoming changes
 8. Errors
 9. Exception and Validations
 10. Docker Deployment
-    
 
 
+
+![upfated_project_structure](https://github.com/KingFerris/rust-axum/assets/150118110/2af0c965-8cc9-4e70-bc9f-361b578f8f38)
